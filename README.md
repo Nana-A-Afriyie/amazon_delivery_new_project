@@ -1,3 +1,5 @@
+<img width="806" height="396" alt="Screenshot 2026-09-09 130818" src="https://github.com/user-attachments/assets/945f54fc-fd69-40c5-8e71-f39ce7d2a33e" />
+<img width="926" height="419" alt="Screenshot 2026-09-09 130627" src="https://github.com/user-attachments/assets/fb5ce302-8cac-452a-9c48-dbe748b5a99b" />
 [pivot table with sales & financial loss.csv](https://github.com/user-attachments/files/32027779/pivot.table.with.sales.financial.loss.csv)
 [amazon_clean_with_calculated_functions.csv](https://github.com/user-attachments/files/32027766/amazon_clean_with_calculated_functions.csv)
 [Amazon_cleaned-data.csv](https://github.com/user-attachments/files/32027753/Amazon_cleaned-data.csv)
