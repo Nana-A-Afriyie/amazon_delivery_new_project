@@ -1,3 +1,8 @@
+[pivot table with sales & financial loss.csv](https://github.com/user-attachments/files/32027779/pivot.table.with.sales.financial.loss.csv)
+[amazon_clean_with_calculated_functions.csv](https://github.com/user-attachments/files/32027766/amazon_clean_with_calculated_functions.csv)
+[Amazon_cleaned-data.csv](https://github.com/user-attachments/files/32027753/Amazon_cleaned-data.csv)
+[Amazon_cleaned-data.csv](https://github.com/user-attachments/files/32027735/Amazon_cleaned-data.csv)
+[amazon_delivery_data_dirty_sales_500 (2).csv](https://github.com/user-attachments/files/32027712/amazon_delivery_data_dirty_sales_500.2.csv)
 # 🚚 Amazon Delivery Logistics: Data Cleaning & Financial Loss Analysis
 
 ## 📌 Project Overview
