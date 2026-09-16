@@ -1,11 +1,7 @@
-<img width="909" height="517" alt="Screenshot 2026-09-14 173937" src="https://github.com/user-attachments/assets/50b5fc87-c636-4fbf-a900-c96d8511dc22" />
-<img width="557" height="475" alt="Screenshot 2026-09-14 174107" src="https://github.com/user-attachments/assets/90b45336-c026-4912-9801-df000f72ce61" />
-<img width="1020" height="479" alt="Screenshot 2026-09-14 174211" src="https://github.com/user-attachments/assets/e1124aaf-f5d3-4745-8e3c-32cac15dbb24" />
-<img width="1042" height="497" alt="Screenshot 2026-09-14 174331" src="https://github.com/user-attachments/assets/3b7222ce-90a9-4178-b504-e0815df42c2a" />
-<img width="1100" height="465" alt="Screenshot 2026-09-14 174410" src="https://github.com/user-attachments/assets/47d52df3-2da9-4431-8e63-978799632624" />
-<img width="806" height="396" alt="Screenshot 2026-09-09 130818" src="https://github.com/user-attachments/assets/945f54fc-fd69-40c5-8e71-f39ce7d2a33e" />
-<img width="926" height="419" alt="Screenshot 2026-09-09 130627" src="https://github.com/user-attachments/assets/fb5ce302-8cac-452a-9c48-dbe748b5a99b" />
-[pivot table with sales & financial loss.csv](https://github.com/user-attachments/files/32027779/pivot.table.with.sales.financial.loss.csv)
+<img width="949" height="527" alt="Screenshot 2026-09-16 150325" src="https://github.com/user-attachments/assets/2f120b55-dac6-4bd5-b129-caa6c6b2c3e0" />
+<img width="947" height="417" alt="Screenshot 2026-09-16 150405" src="https://github.com/user-attachments/assets/4d802e72-1c19-4b61-94f0-f23cee689f0d" />
+<img width="945" height="449" alt="Screenshot 2026-09-16 150444" src="https://github.com/user-attachments/assets/d2d6fb29-10c5-4c6b-9689-7daab5ccc207" />
+
 [amazon_clean_with_calculated_functions.csv](https://github.com/user-attachments/files/32027766/amazon_clean_with_calculated_functions.csv)
 [Amazon_cleaned-data.csv](https://github.com/user-attachments/files/32027753/Amazon_cleaned-data.csv)
 [Amazon_cleaned-data.csv](https://github.com/user-attachments/files/32027735/Amazon_cleaned-data.csv)
