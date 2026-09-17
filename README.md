@@ -1,6 +1,8 @@
-<img width="949" height="527" alt="Screenshot 2026-09-16 150325" src="https://github.com/user-attachments/assets/2f120b55-dac6-4bd5-b129-caa6c6b2c3e0" />
-<img width="947" height="417" alt="Screenshot 2026-09-16 150405" src="https://github.com/user-attachments/assets/4d802e72-1c19-4b61-94f0-f23cee689f0d" />
-<img width="945" height="449" alt="Screenshot 2026-09-16 150444" src="https://github.com/user-attachments/assets/d2d6fb29-10c5-4c6b-9689-7daab5ccc207" />
+<img width="966" height="542" alt="Amazon Delivery Dashboard 1" src="https://github.com/user-attachments/assets/a805c292-cc15-4d23-b4e4-5970ea73a9df" />
+<img width="938" height="288" alt="Screenshot 2026-09-16 224216" src="https://github.com/user-attachments/assets/c6532413-d9c9-4374-ba48-82178ee25863" />
+<img width="939" height="470" alt="Screenshot 2026-09-16 224135" src="https://github.com/user-attachments/assets/badd8346-85f5-45ef-b06e-e55db5cf6fa9" />
+<img width="941" height="469" alt="Screenshot 2026-09-16 224040" src="https://github.com/user-attachments/assets/fc86c0eb-e65d-403c-8993-a7a3be07132f" />
+
 
 [amazon_clean_with_calculated_functions.csv](https://github.com/user-attachments/files/32027766/amazon_clean_with_calculated_functions.csv)
 [Amazon_cleaned-data.csv](https://github.com/user-attachments/files/32027753/Amazon_cleaned-data.csv)
