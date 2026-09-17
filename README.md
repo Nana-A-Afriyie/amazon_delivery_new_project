@@ -1,7 +1,8 @@
-<img width="966" height="542" alt="Amazon Delivery Dashboard 1" src="https://github.com/user-attachments/assets/a805c292-cc15-4d23-b4e4-5970ea73a9df" />
-<img width="938" height="288" alt="Screenshot 2026-09-16 224216" src="https://github.com/user-attachments/assets/c6532413-d9c9-4374-ba48-82178ee25863" />
-<img width="939" height="470" alt="Screenshot 2026-09-16 224135" src="https://github.com/user-attachments/assets/badd8346-85f5-45ef-b06e-e55db5cf6fa9" />
-<img width="941" height="469" alt="Screenshot 2026-09-16 224040" src="https://github.com/user-attachments/assets/fc86c0eb-e65d-403c-8993-a7a3be07132f" />
+<img width="932" height="476" alt="Screenshot 2026-09-17 124419" src="https://github.com/user-attachments/assets/2eb91821-93a2-46c6-860c-5f73495d20eb" />
+<img width="936" height="386" alt="Screenshot 2026-09-17 124449" src="https://github.com/user-attachments/assets/0e6cf001-46a4-4aae-8e1b-a1da174f0c12" />
+<img width="972" height="435" alt="Screenshot 2026-09-17 124348" src="https://github.com/user-attachments/assets/854cc818-88e8-496f-ba4a-aa90e2b9f8b8" />
+<img width="935" height="436" alt="Screenshot 2026-09-17 124315" src="https://github.com/user-attachments/assets/0b1af201-b0d6-4175-b45c-ea0dca7f7813" />
+
 
 
 [amazon_clean_with_calculated_functions.csv](https://github.com/user-attachments/files/32027766/amazon_clean_with_calculated_functions.csv)
